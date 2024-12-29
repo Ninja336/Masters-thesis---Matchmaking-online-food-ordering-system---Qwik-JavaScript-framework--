@@ -1,4 +1,4 @@
-# Matchmaking-online-food-ordering-system_Qwik-project
+# Master's thesis - Matchmaking online food ordering system - Qwik (JavaScript framework)
 
 Thesis Project: Food Ordering Website Using MEN Stack and Qwik
 For my thesis, I developed a full-featured food ordering website designed to streamline and modernize the experience of browsing, ordering, and managing food orders online. This platform integrates the MEN (MongoDB, Express.js, Node.js) stack with Qwik, an innovative JavaScript framework that enhances web performance and user interaction. The primary objective of this thesis project was to develop a scalable, efficient, and user-friendly food ordering website
